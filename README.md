@@ -20,6 +20,23 @@ Features:
 - Filter options (e.g., by location, duration).
 - Booking options for each tour package.
 
+## Booking & Reservations Page
+![Booking](https://github.com/Wang-572/GTGMblog/blob/main/wix-interface/Booking%20and%20Reservation.png)
+Description: Allows visitors to make reservations for tours or accommodations in Malaysia.
+
+Features:
+- Booking form for tour packages or accommodations.
+- Payment gateway integration.
+- Confirmation and booking details.
+
+## Destination Page 
+![Destination](https://github.com/Wang-572/GTGMblog/blob/main/wix-interface/Destinations.png)
+Description: Provides detailed information about popular destinations in Malaysia.
+
+Features:
+- List of destinations with descriptions and images.
+- Highlights key attractions in each destination.
+- Links to related tour packages or activities.
 
 # Contributors
 Wang (@Wang-572)

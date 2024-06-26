@@ -38,6 +38,24 @@ Features:
 - Highlights key attractions in each destination.
 - Links to related tour packages or activities.
 
+## About Us Page
+![AboutUs](https://github.com/Wang-572/GTGMblog/blob/main/wix-interface/About%20Us.png)
+Description: Introduces the 'Go Tropical Go Malaysia' team and mission.
+
+Features:
+- Overview of the company's history and goals.
+- Profiles of key team members.
+- Contact information.
+
+## Reviews Page
+![Reviews](https://github.com/Wang-572/GTGMblog/blob/main/wix-interface/Reviews.png)
+Description: Displays user reviews and testimonials about experiences with 'Go Tropical Go Malaysia'.
+
+Features:
+- Customer testimonials.
+- Ratings and feedback.
+- Option to leave a review.
+
 # Contributors
 Wang (@Wang-572)
 Wen Hui (@hh1889)

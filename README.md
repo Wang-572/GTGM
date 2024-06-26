@@ -1,6 +1,11 @@
 <h1 align="center"> Go Tropical Go Malaysia</h1>
 Go Tropical Go Malaysia is a comprehensive interface designed for both mobile and web platforms, aimed at educating visitors about the vibrant and dynamic culture, events, and specific knowledge pertaining to Malaysia. Our goal is to provide up-to-date information and resources to help users stay informed about current events and explore the rich cultural heritage of Malaysia.
 
+## Key Technologies Used
+- [Wix](https://www.wix.com/) : A cloud-based web development platform that allows users to create HTML5 websites and mobile sites through the use of online drag-and-drop tools.
+- [Figma](https://www.figma.com/) : A web-based design tool, primarily used for interface design and prototyping. It allows multiple designers to collaborate in real-time.
+- [Canva](https://www.canva.com/) : A graphic design platform used to create social media graphics, presentations, posters, documents, and other visual content.
+
 <h2 align="left"> Wix Site</h2>
 <h3 align="left"> Main Page</h3>
 <img alt="HTML" src="https://github.com/Wang-572/GTGMblog/blob/main/wix-interface/Main%20Page.png"/>

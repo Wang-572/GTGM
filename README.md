@@ -80,6 +80,39 @@ This part outlines the design of the mobile interface for 'Go Tropical Go Malays
 <br>
 Together, a user manual was created using Canva to help user/viewer understand the functionality in each mobile apps pages.
 
+## How To Contribute?
+**1.** Fork [this](https://github.com/Wang-572/GTGMblog) repository.
+
+**2.** Clone the forked repository.
+```terminal
+git clone
+https://github.com/Wang-572/GTGMblog
+```
+
+**3.** Navigate the project directory.
+```terminal
+cd GTGMblog
+```
+
+**4.** MAKE A NEW FOLDER WITH YOUR PROJECT NAME INSIDE & add your project files
+
+**5.** Add a README file in your project folder
+
+**6.** Create a new branch.
+```terminal
+git checkout -b <your-branch-name>
+```
+
+**7.** Add & commit your changes.
+```terminal
+git add .
+git commit -m"
+<your-commit-message>"
+```
+
+**8.** Create a pull request
+
+
 <h2 align="left"> Contributors</h2>
 Wang (@Wang-572)
 Wen Hui (@hh1889)

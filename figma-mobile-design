@@ -1,0 +1,22 @@
+# Mobile Interface Design for 'Go Tropical Go Malaysia'
+
+This document outlines the design of the mobile interface for 'Go Tropical Go Malaysia' using Figma. The design includes the following menus:
+- Main Page
+- Tour & Packages
+- Booking & Reservations
+- Destination
+- About Us
+- Reviews
+- Contact Us
+- Log in
+
+## Main Page
+
+**Description:**
+The main landing page for the mobile interface, designed to welcome users and provide an overview of key features.
+
+**Design Elements:**
+- **Header:** Includes logo and navigation menu.
+- **Hero Section:** High-quality images with a welcome message.
+- **Featured Sections:** Quick links to popular destinations, tours, and latest news.
+- **Footer:** Links to social media and contact information.

@@ -56,6 +56,15 @@ Features:
 - Ratings and feedback.
 - Option to leave a review.
 
+## Contact Us Page
+![ContactPage](https://github.com/Wang-572/GTGMblog/blob/main/wix-interface/Contact%20Us.png)
+Description: Provides contact information for inquiries and support.
+
+Features:
+- Contact form for general inquiries.
+- Address and phone number.
+- Social media links.
+
 # Contributors
 Wang (@Wang-572)
 Wen Hui (@hh1889)
